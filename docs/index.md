@@ -1,17 +1,4 @@
-# Welcome to MkDocs
+# Home
+Digital Design & Development Club (3DC) is a Google Developer Student Club (DSC) at ISTD Pillar of [Singapore University of Technology & Design (SUTD)](https://www.sutd.edu.sg/).
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We are a community group seeking to empower students in their journey in school. By joining our DSC, students will be able to build up their professional and personal skills, get access to Google developer resources, and work together to build solutions for local problems in a peer-to-peer learning environment.
