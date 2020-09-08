@@ -1,5 +1,10 @@
 # 3DC Club Policies
 
+### Documents
+
+Please add club policy related `.md` documents under directory `docs/`.
+
+
 ### This repo is using MkDocs with a material theme
 
 ```
