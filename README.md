@@ -1,6 +1,12 @@
 # 3DC Club Policies
 
-## About MkDocs
+### This repo is using MkDocs with a material theme
+
+```
+pip install mkdocs-material
+```
+
+### About MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -12,8 +18,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs -h` - Print help message and exit.
 
 ### Project layout
-
+```
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+```
