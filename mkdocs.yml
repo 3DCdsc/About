@@ -1,3 +1,6 @@
 site_name: 3DC Club Policy
 theme:
     name: material
+markdown_extensions:
+    - toc:
+        permalink: "#"
