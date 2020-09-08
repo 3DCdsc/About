@@ -1,8 +1,8 @@
-# 3DC Club Policies
+# About 3DC
 
 ### Documents
 
-Please add club policy related `.md` documents under directory `docs/`.
+All documents are written in MarkDown (`.md`) located under the directory `docs/`.
 
 
 ### This repo is using MkDocs with a material theme
