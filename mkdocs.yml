@@ -1,4 +1,9 @@
-site_name: 3DC Club Policy
+site_name: About 3DC
+docs_dir: docs/
+repo_name: '3DCdsc/About'
+repo_url: 'https://github.com/3DCdsc/About'
+nav:
+  - Home: index.md
 theme:
     name: material
 markdown_extensions:
