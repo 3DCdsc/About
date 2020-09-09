@@ -1,5 +1,7 @@
 # About 3DC
 
+![ci](https://github.com/3DCdsc/About/workflows/ci/badge.svg?branch=master)
+
 ### Documents
 
 All documents are written in MarkDown (`.md`) located under the directory `docs/`.
