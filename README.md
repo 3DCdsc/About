@@ -2,9 +2,9 @@
 
 ![ci](https://github.com/3DCdsc/About/workflows/ci/badge.svg?branch=master)
 
-### Documents
+### Add / Edit Pages
 
-All documents are written in MarkDown (`.md`) located under the directory `docs/`.
+All pages are written in MarkDown (`.md`) located under the directory `docs/` on Master branch.
 
 
 ### This repo is using MkDocs with a material theme
@@ -17,11 +17,11 @@ pip install mkdocs-material
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-### Commands
+### MkDocs Commands on local
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
+* `mkdocs new [dir-name]` - Create a new project. (You don't need to use this for existing project)
+* `mkdocs serve` - Start the live-reloading docs server. (You can use this to preview your changes at local)
+* `mkdocs build` - Build the documentation site. (You don't need to do this, this repo's CI will build on push and update the GitHub Page)
 * `mkdocs -h` - Print help message and exit.
 
 ### Project layout
