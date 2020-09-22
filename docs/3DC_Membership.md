@@ -6,19 +6,19 @@
 
 ## Why Join 3DC?
 
-Everyone can participate in 3DC-organised events with or without being a member of 3DC, we even extend our events to other local universities from time to time. We are absolutely an open community. 
+Everyone can participate in 3DC-organised events with or without being a member of 3DC, we also extend our events to other local universities from time to time. We are an open community. 
 
-However, we do have 3 groups of people within our 3DC Family. Let me explain them in the simplest term:
+However, we do have 3 groups of people within our 3DC Family. 
 
-1. **Non-members** - You can participate 3DC events freely, no commitments, but also no Fifth-Row record.
-2. **3DC Members** - You can participate 3DC events based on your preference, get more involved in projects/ workshops/ Hackthons. You will get the official Fifth-Row records on your Fifth-Row transcript.
-3. **3DC Core Team** - We organise events, we host Hackthons, we build communities and everything behind the scene. You will get leadership experience and strong records on your Fifth-Row records and your Résumé.
+1. **Non-members** - You can participate in 3DC events freely, no commitments, but also no Fifth-Row record.
+2. **3DC Members** - You can participate in 3DC events based on your preference, get more involved in projects/ workshops/ Hackathons. You will get the official Fifth-Row records on your Fifth-Row transcript.
+3. **3DC Core Team** - We organize events, we host Hackathons, we build communities and everything behind the scene. You will get leadership experience and strong records on your Fifth-Row records and your Résumé.
 
-> The rest of the page tells you how to become a **3DC Members**. If you are interest to join **3DC Core Team**, please also check [this](Join_3DC_Core.md) out.
+> The rest of the page tells you how to become a **3DC Members**. If you are interested to join **3DC Core Team**, please also check [this](Join_3DC_Core.md) out.
 
 ## 3 Pathways to Gain Membership
 
-You can choose one of the following 3 pathways to become a 3DC member. (ps: The requirements are not that hard to achieve, and you can definetly make it if you want to!)
+You can choose one of the following 3 pathways to become a 3DC member. (ps: The requirements are not that hard to achieve, and you can definitely make it if you keen to!)
 
 - [Project](#pathway-1-do-a-project-with-3dc)
 - [Workshop](#pathway-2-organise-a-workshop-with-3dc)
@@ -36,21 +36,19 @@ Don't be afraid, this "project" can be anything at any scale, we just want to en
 These projects can be:
 
 - **Self-Initiated** (Come up with your own idea.)
-- **Memtor-Suggested** (You can ask for ideas if you can't think of any.)
+- **Mentor-Suggested** (You can ask for ideas if you can't think of any.)
 - **School-proposed** (Sometimes you can work with the school to serve real-world needs by building applications.)
 
 ## Pathway 2: Organise a Workshop with 3DC
 
 If you have passion about certain technical topics that you wanna share it with your peers, or if you are passionate about teaching and helping others. You can cooperate with 3DC and organize a workshop/ lecture/ sharing session. Teaching others is **the best way** to reinforce your knowledge at any discipline.
 
-### Perks:
-
 3DC can help you with:
 
 - Event application & administrative matters
 - Event publicity & announcement
 - Workshop content refinement, quality control
-- Video recording / steaming
+- Video recording/steaming
 - TA supports
 
 You can gain:
@@ -63,13 +61,13 @@ You can gain:
 
 > Note: Topic of workshop/ lecture/ sharing session is not limited at all, you can pick any topic of your like, present it at any level of difficulty of your like. We only wish that you are passionate about what you are sharing, and we wish the topic to be as diverse as possible.
 
-For workshops, it should engage participants with hands-on activities, the pace of the workshop should be as slow as possible. Lecturing time versus hands-on activity time should be around 50:50. Some example topics for workshops may looks like:
+For workshops, it should engage participants with hands-on activities, the pace of the workshop should be as slow as possible. Lecturing time versus hands-on activity time should be around 50:50. Some example topics for workshops may look like:
 
 - How to build your first website
-- How to build native iOS App with SwiftUI
+- How to build a native iOS App with SwiftUI
 - How to build a Todo App using ReactJS
 
-For lectures, you can have less interactions with audience, you don't need to design any hands-on activities. Some topics suit for lecture may looks like:
+For lectures, you can have fewer interactions with the audience, you don't need to design any hands-on activities. Some topics suit for lecture may look like:
 
 - What is vim and why you should give it a try
 - What are the best practices in using Vue.JS
@@ -82,6 +80,6 @@ For sharing sessions, you can share about your internship experience, UROP exper
 - Undergraduate research 101 - UROP experience sharing
 
 
-## Pathway 3: Join a Hackthon with 3DC
+## Pathway 3: Join a Hackathon with 3DC
 
-Team up with anyone in the 3DC Community, represent 3DC and participate in a hackthon. 
+Team up with anyone in the 3DC Community, represent 3DC and participate in a hackathon. 
