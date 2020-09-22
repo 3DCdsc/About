@@ -1,7 +1,10 @@
 # About 3DC
 
+
+
 **Digital Design & Development Club (3DC)** is an official [*Fifth-Row*](https://www.sutd.edu.sg/Campus-Life/Student-Life/Student-Organisations-Fifth-Row) club affilliated with [*ISTD Pillar*](https://istd.sutd.edu.sg/) at [*SUTD*](https://www.sutd.edu.sg/). We are also a [*Developer Student Club (DSC)*](https://dsc.community.dev/) supported by Google and a member of the *[OpenNodes](https://opennodes.com/) Campus Collective*.
 
+![](imgs/IMG_20190224_130837.jpg)
 
 - Telegram Community: [3DC Family](https://t.me/joinchat/C_Nni1C77ZlOVTdjU4yf4Q)
 - YouTube Channel: [SUTD 3DC](https://www.youtube.com/channel/UCF56lQD1HWv-0uOQSXrTmLw)

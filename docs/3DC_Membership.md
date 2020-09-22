@@ -1,39 +1,63 @@
 # How to Become a 3DC Member
 
 |Last Updated | Valid Until |
-| :---------: | :---------: |
-|08 Sep 2020  | 01 Jan 2021 |
+| :---: | :---: |
+| 23 Sep 2020  | 01 Jan 2021 |
 
-## Membership Perks
+## Why Join 3DC?
 
-For all members, your participation as a 3DC member will be in your official fifth-row transcript. As a Google-affiliated Developer Student Club (DSC), I think that alone should carry some weight in your portfolio
+Everyone can participate in 3DC-organised events with or without being a member of 3DC, we even extend our events to other local universities from time to time. We are absolutely an open community. 
 
-Projects completed with 3DC can be publicized on our platforms. This can extend to finding team mates (in SUTD as well as potentially from other unis) as well as just overall publicity of completed projects. Your projects completed with 3DC will also be reflected in your school transcript as well. Core Team Members can also provide mentorship for the project. In addition, the club is able to provide the team with GCP credits from Google.
+However, we do have 3 groups of people within our 3DC Family. Let me explain them in the simplest term:
+1. **Non-members** - You can participate 3DC events freely, no commitments, but also no Fifth-Row record.
+1. **3DC Members** - You can participate 3DC events based on your preference, get more involved in projects/ workshops/ Hackthons. You will get the official Fifth-Row records on your Fifth-Row transcript.
+1. **3DC Core Team** - We organise events, we host Hackthons, we build communities and everything behind the scene. You will get leadership experience and strong records on your Fifth-Row records and your Résumé.
 
-For members keen to host workshops, we can provide publicity and can help to find fellow Instructors (assistants) to help streamline your workshop. If it is online, we can also allow it to be hosted on our Twitch account and posted on our YouTube channel.
-
-For Hackathons, we can help you to recruit team mates that have different strengths and skillsets. We can also allow you to work with other students you may usually not work with.
+> The rest of the page tells you how to become a **3DC Members**. If you are interest to join **3DC Core Team**, please also check [this](Join_3DC_Core.md) out.
 
 ## 3 Pathways to Gain Membership
+
+You can choose one of the following 3 pathways to become a 3DC member. (ps: The requirements are not that hard to achieve, and you can definetly make it if you want to!)
+
 - [Project](#pathway-1-do-a-project-with-3dc)
 - [Workshop](#pathway-2-organise-a-workshop-with-3dc)
 - [Hackthon](#pathway-3-join-a-hackthon-with-3dc)
 
 ## Pathway 1: Do a Project with 3DC
 
-These projects can be from:
-- Member-Initiated
-- Core-Team suggestions
-- (If any) school-proposed
-- (If possible) start-up sourced
+Doing practical software projects is **the best way** to learn programming, software development, and computer science. We encourage you to do a software development projects with 3DC, that means you get unlimited support from the 3DC community; we will assign you a mentor from our core team to guide you along the way; You get to showcase your finished project on 3DC's website, get exposures and opportunities.
 
-If the project last for more than 1 term, members will be awarded membership for the duration of the project. If the project is dropped, the term in which the project and after, the members will not count as having this condition fulfilled. (aka if ghost, no count).
+
+### What kind of "project" can I do?
+
+Don't be afraid, this "project" can be anything at any scale, we just want to encourage you to learn with the community.
+
+These projects can be:
+- **Self-Initiated** (Come up with your own idea.)
+- **Memtor-Suggested** (You can ask for ideas if you can't think of any.)
+- **School-proposed** (Sometimes you can work with the school to serve real-world needs by building applications.)
 
 ## Pathway 2: Organise a Workshop with 3DC
 
-If you have passion about certain technical topic that you wanna share it with your peers, or if you are passionate about teaching and helping others. You can cooperate with 3DC and organise a workshop/ lecture/ sharing session.
+If you have passion about certain technical topics that you wanna share it with your peers, or if you are passionate about teaching and helping others. You can cooperate with 3DC and organize a workshop/ lecture/ sharing session. Teaching others is **the best way** to reinforce your knowledge at any discipline.
 
-### Example of possible topics:
+### Perks:
+
+3DC can help you with:
+
+- Event application & administrative matters
+- Event publicity & announcement
+- Workshop content refinement, quality control
+- Video recording / steaming
+- TA supports
+
+You can gain:
+
+- Workshop directing experience
+- Official fifth-row record
+- 3DC membership for a year
+
+### What kind of "workshop" can I do?
 
 > Note: Topic of workshop/ lecture/ sharing session is not limited at all, you can pick any topic of your like, present it at any level of difficulty of your like. We only wish that you are passionate about what you are sharing, and we wish the topic to be as diverse as possible.
 
@@ -55,23 +79,7 @@ For sharing sessions, you can share about your internship experience, UROP exper
 - How to prepare for technical interview
 - Undergraduate research 101 - UROP experience sharing
 
-### Perks:
-
-3DC can help you with:
-
-- Event application & administrative matters
-- Event publicity & announcement
-- Workshop content refinement, quality control
-- Video recording / steaming
-- TA supports
-
-You can gain:
-
-- Workshop directing experience
-- Official fifth-row record
-- 3DC membership for a year
-
 
 ## Pathway 3: Join a Hackthon with 3DC
 
-TODO
+Team up with anyone in the 3DC Community, represent 3DC and participate in a hackthon. 
