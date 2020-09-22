@@ -3,21 +3,21 @@ docs_dir: docs/
 repo_name: '3DCdsc/About'
 repo_url: 'https://github.com/3DCdsc/About'
 markdown_extensions:
-  - toc:
-    permalink: "#"
+    - toc:
+      permalink: "#"
 theme:
-  name: material
-  palette:
-    - scheme: default
-      primary: teal
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    - scheme: slate
-      primary: teal
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+    name: material
+    palette:
+        - scheme: default
+            primary: teal
+            accent: indigo
+            toggle:
+                icon: material/toggle-switch
+                name: Switch to light mode
+        - scheme: slate
+            primary: teal
+            accent: indigo
+            toggle:
+                icon: material/toggle-switch-off-outline
+                name: Switch to dark mode
 
