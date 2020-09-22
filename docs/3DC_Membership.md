@@ -9,9 +9,10 @@
 Everyone can participate in 3DC-organised events with or without being a member of 3DC, we even extend our events to other local universities from time to time. We are absolutely an open community. 
 
 However, we do have 3 groups of people within our 3DC Family. Let me explain them in the simplest term:
+
 1. **Non-members** - You can participate 3DC events freely, no commitments, but also no Fifth-Row record.
-1. **3DC Members** - You can participate 3DC events based on your preference, get more involved in projects/ workshops/ Hackthons. You will get the official Fifth-Row records on your Fifth-Row transcript.
-1. **3DC Core Team** - We organise events, we host Hackthons, we build communities and everything behind the scene. You will get leadership experience and strong records on your Fifth-Row records and your Résumé.
+2. **3DC Members** - You can participate 3DC events based on your preference, get more involved in projects/ workshops/ Hackthons. You will get the official Fifth-Row records on your Fifth-Row transcript.
+3. **3DC Core Team** - We organise events, we host Hackthons, we build communities and everything behind the scene. You will get leadership experience and strong records on your Fifth-Row records and your Résumé.
 
 > The rest of the page tells you how to become a **3DC Members**. If you are interest to join **3DC Core Team**, please also check [this](Join_3DC_Core.md) out.
 
@@ -33,6 +34,7 @@ Doing practical software projects is **the best way** to learn programming, soft
 Don't be afraid, this "project" can be anything at any scale, we just want to encourage you to learn with the community.
 
 These projects can be:
+
 - **Self-Initiated** (Come up with your own idea.)
 - **Memtor-Suggested** (You can ask for ideas if you can't think of any.)
 - **School-proposed** (Sometimes you can work with the school to serve real-world needs by building applications.)
