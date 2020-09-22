@@ -2,6 +2,9 @@ site_name: Everything About 3DC
 docs_dir: docs/
 repo_name: '3DCdsc/About'
 repo_url: 'https://github.com/3DCdsc/About'
+markdown_extensions:
+  - toc:
+    permalink: "#"
 theme:
   name: material
   palette:
@@ -17,6 +20,4 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-markdown_extensions:
-  - toc:
-    permalink: "#"
+
