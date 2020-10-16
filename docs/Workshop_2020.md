@@ -18,10 +18,10 @@ Instructor: Bryce (Class of 2024)
 
 Delivering Format: Hybrid (Offline + Online concurrently)
 
-- Offline venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
-- Online platform: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
+- Physical venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
+- Virtual venue: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
 
-Registration for either online / offline participation: Sign Up [**here**](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPT7laIF8QHhDuji50dJ_xY1UMjRKSzlJVDhXUkZZWVU3N0NEQUszNTRNVi4u) now! 
+Sign up for either physical or virtual session from [**here**](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPT7laIF8QHhDuji50dJ_xY1UMjRKSzlJVDhXUkZZWVU3N0NEQUszNTRNVi4u) now! 
 
 <!-- Looking For:
 
@@ -33,28 +33,30 @@ Registration for either online / offline participation: Sign Up [**here**](https
 
 ## Introduction to Python and Programming Workshop
 
->Target Audience: All Freshmore students who aren't comfortable with Python or no prior programming experience.
+>Target Audience: All *Freshmore* students who aren't comfortable with Python or with no prior programming experience.
 >
-Prerequisite: None
+>Prerequisite: None
 
-Sessions:
+Session Dates:
 
 - S1: *Introduction to Programming & Python Basics*
-    - Date: **27th October 2020**, Tuesday of Week 7 (Recess week)
+    - Date: **27th October 2020** (Tuesday of Week 7) (Recess week)
     - Time: **1.30 - 4.30 PM** (3 hours)
 - S2: *More on Python Programming*
-    - Date: **12th November 2020**, Thursday of Week 9
-    - Time: **7.00 - 9.00 PM** (3 hours)
+    - Date: **12th November 2020** (Thursday of Week 9)
+    - Time: **7.00 - 9.00 PM** (2 hours)
 - S3: *Python Programming & Review for `Computational Thinking for Design`*
-    - Date: **26th November 2020**, Thursday of Week 11
-    - Time: **7.00 - 9.00 PM** (3 hours)
+    - Date: **26th November 2020** (Thursday of Week 11)
+    - Time: **7.00 - 9.00 PM** (2 hours)
 
 Delivering Format: Hybrid (Offline + Online concurrently)
 
-- Offline venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
-- Online platform: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
+- Physical venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
+- Virtual venue: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
 
-Looking For:
+Sign up for either physical or virtual session from [**here**](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPT7laIF8QHhDuji50dJ_xY1UN0NMQTNLVEFGTFlJVzJWR0dCUDlaSEg0SS4u) now! 
+
+<!-- Looking For:
 
 - Workshop Instructor
     - To host the workshop session.
@@ -63,6 +65,6 @@ Looking For:
 - Workshop TAs (6~10)
     - Help offline workshop attendees when they get stuck
     - Answer questions (from offline & online)
-    - Moderate online chat
+    - Moderate online chat -->
 
 ---
