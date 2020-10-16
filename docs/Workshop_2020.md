@@ -1,22 +1,23 @@
 # Workshops in 2020
 
-## Upcoming Workshops
+### Upcoming Workshops
 
 ---
 
 ## Introduction to ReactJS and Web Development Workshop
 
-Target Audience: Beginners in web development.
-
-Prerequisite: Basic knowledge on `Dictionary`, `List`, `Functions`, `Loops`.
+>Target Audience: Beginners in web development.
+>
+>Prerequisite: Basic knowledge on `Dictionary`, `List`, `Functions`, `Loops`.
 
 Date: **26th October 2020**, Monday of Week 7 (Recess week)
 
 Time: **3.00 - 5.00 PM** (2 hours)
 
-Instructor/ Workshop Director: Bryce (Freshmore, Class of 2024)
+Instructor: Bryce (Class of 2024)
 
 Delivering Format: Hybrid (Offline + Online concurrently)
+
 - Offline venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
 - Online platform: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
 
@@ -32,8 +33,8 @@ Registration for either online / offline participation: Sign Up [**here**](https
 
 ## Introduction to Python and Programming Workshop
 
-Target Audience: All Freshmore students who aren't comfortable with Python or no prior programming experience.
-
+>Target Audience: All Freshmore students who aren't comfortable with Python or no prior programming experience.
+>
 Prerequisite: None
 
 Sessions:
@@ -49,6 +50,7 @@ Sessions:
     - Time: **7.00 - 9.00 PM** (3 hours)
 
 Delivering Format: Hybrid (Offline + Online concurrently)
+
 - Offline venue: SUTD i3 Lab (Building 1, Level 6) (With 20 ppl cap, only open for SUTD Freshmore & Hostel Residents)
 - Online platform: YouTube or/and [Twitch](https://www.twitch.tv/3dcdsc) Stream
 
