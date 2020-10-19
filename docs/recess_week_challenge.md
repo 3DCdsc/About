@@ -40,5 +40,5 @@ All links to the 3DC challenges will be posted here. The hackerrank challenges a
 ## Scoring Guidelines
 
 1. Both the Hackerrank non-timed and timed challenges will be graded by Hackerrank's automated scoring system.
-2. The Cloud-based challenge will be graded automatically. Please use [this link]() to test your website.
+2. The Cloud-based challenge will be graded automatically. Please use [this link (to be released)](#) to test your website.
 3. Placement is graded based on total score. In the event of a tie, timing for the hackerrank timed challenge will be used as a tiebreaker.
