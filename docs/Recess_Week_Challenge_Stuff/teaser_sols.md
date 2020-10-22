@@ -10,19 +10,19 @@ For many programming languages, there are well-established sorting functions for
 
 ## Converting the tuple to a single number
 
-A simple approach is to simply flatten the tuple $(r, g, b)$ into a single number. We can convert the rgb value to be a 3-digit base-255 number (usually our numbers are in base-10). We can use this base-255 number to also represent the relative importances of $r$, $g$ and $b$. 
-- Since $b$ is the least important, we take it to be the 1st digit of the base-255 number
-- Since $g$ is the 2nd most important, we take it to be the 2nd digit of the base-255 number
-- Since $r$ is the most important, we take it to be the 3rd digit of the base-255 number
+A simple approach is to simply flatten the tuple $(r, g, b)$ into a single number. We can convert the rgb value to be a 3-digit base-256 number (usually our numbers are in base-10). We can use this base-256 number to also represent the relative importances of $r$, $g$ and $b$. 
+- Since $b$ is the least important, we take it to be the 1st digit of the base-256 number
+- Since $g$ is the 2nd most important, we take it to be the 2nd digit of the base-256 number
+- Since $r$ is the most important, we take it to be the 3rd digit of the base-256 number
 
-To perform the conversion, we can just simply do $rgb = 255*255*r + 255*g + b$.
+To perform the conversion, we can just simply do $rgb = 256*256*r + 256*g + b$.
 
-After converting to the base-255 number, we can just use the standard sort functions to sort our tuple.
+After converting to the base-256 number, we can just use the standard sort functions to sort our tuple.
 
-However, we need to remember to convert the base-255 number back to $(r, g, b)$ format for printing out the result. Thats not too difficult, we can do
-- $r = sheep \div (255 * 255))$
-- $g = (sheep \mod (255 * 255)) \div 255)$
-- $b = sheep \mod 255$
+However, we need to remember to convert the base-256 number back to $(r, g, b)$ format for printing out the result. Thats not too difficult, we can do
+- $r = sheep \div (256 * 256))$
+- $g = (sheep \mod (256 * 256)) \div 256)$
+- $b = sheep \mod 256$
   
 <details>
     <summary>Python3 Solution for Tuple Conversion (List)</summary>
@@ -33,14 +33,14 @@ sheeps = []
 
 for i in range(s):
     [r, g, b] = input().split()
-    sheeps.append(255*255*int(r) + 255*int(g) + int(b))
+    sheeps.append(256*256*int(r) + 256*int(g) + int(b))
 
 sheeps.sort(reverse=True)
 
 for sheep in sheeps:
-    r = int(sheep / (255 * 255))
-    g = int(sheep % (255 * 255) / 255)
-    b = int(sheep % 255)
+    r = int(sheep / (256 * 256))
+    g = int(sheep % (256 * 256) / 256)
+    b = int(sheep % 256)
     print(r, g, b)
 ```
     
@@ -64,16 +64,16 @@ int main()
     {
         int r, g, b;
         std::cin >> r >> g >> b;
-        int rgb { 255*255*r + 255*g + b };
+        int rgb { 256*256*r + 256*g + b };
         *it = rgb;
     }
     std::sort(sheeps.begin(), sheeps.end());
 
     for (auto it { sheeps.rbegin() }; it != sheeps.rend(); ++it)
     {
-        int r { *it / (255 * 255) };
-        int g { *it % (255 * 255) / 255 };
-        int b { *it % 255 };
+        int r { *it / (256 * 256) };
+        int g { *it % (256 * 256) / 256 };
+        int b { *it % 256 };
         std::cout << r << ' ' << g << ' ' << b << '\n';    
     }
 }
@@ -90,16 +90,16 @@ sheeps = {}
 
 for i in range(s):
     [r, g, b] = input().split()
-    rgb = 255*255*int(r) + 255*int(g) + int(b)
+    rgb = 256*256*int(r) + 256*int(g) + int(b)
     if rgb not in sheeps:
         sheeps[rgb] = 1
     else:
         sheeps[rgb] += 1
 
 for rgb, count in sorted(sheeps.items(), reverse=True):
-    r = int(rgb / (255 * 255))
-    g = int(rgb % (255 * 255) / 255)
-    b = int(rgb % 255)
+    r = int(rgb / (256 * 256))
+    g = int(rgb % (256 * 256) / 256)
+    b = int(rgb % 256)
     for i in range(count):
         print(r, g, b)
 ```
@@ -124,16 +124,16 @@ int main()
     {
         int r, g, b;
         std::cin >> r >> g >> b;
-        int rgb { 255*255*r + 255*g + b };
+        int rgb { 256*256*r + 256*g + b };
         *it = rgb;
     }
     std::sort(sheeps.begin(), sheeps.end());
 
     for (auto it { sheeps.rbegin() }; it != sheeps.rend(); ++it)
     {
-        int r { *it / (255 * 255) };
-        int g { *it % (255 * 255) / 255 };
-        int b { *it % 255 };
+        int r { *it / (256 * 256) };
+        int g { *it % (256 * 256) / 256 };
+        int b { *it % 256 };
         std::cout << r << ' ' << g << ' ' << b << '\n';    
     }
 }
