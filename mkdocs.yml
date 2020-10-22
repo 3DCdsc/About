@@ -5,9 +5,17 @@ repo_url: 'https://github.com/3DCdsc/About'
 markdown_extensions:
     - toc:
         permalink: "#"
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.arithmatex:
+        generic: true
 theme:
     name: material
     palette:
         scheme: slate
         primary: teal
         accent: indigo
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
