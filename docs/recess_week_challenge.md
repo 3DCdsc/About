@@ -31,7 +31,8 @@ All links to the 3DC challenges will be posted here. The hackerrank challenges a
 
 | Challenge | Release Date | Link | Points |
 | :---: | :---: | :---: | :---: |
-| Cloud-based Lab  | 24/10/20 (Saturday) 15:30 | [To be released](#) | 200 |
+| Teaser Challenge | 23/10/20 (Friday) | [Link](https://www.hackerrank.com/3dc-recess-week-minecraft-teaser) | N/A |
+| Cloud-based Lab  | 24/10/20 (Saturday) 20:00 | [To be released](#) | 200 |
 | Hackerrank Challenge 1  | 26/10/20 (Monday) 09:00 | [To be released](#) | 100 |
 | Hackerrank Challenge 2  | 27/10/20 (Tuesday) 09:00 | [To be released](#) | 100 |
 | Hackerrank Challenge 3  | 28/10/20 (Wednesday) 09:00 | [To be released](#) | 100 |
