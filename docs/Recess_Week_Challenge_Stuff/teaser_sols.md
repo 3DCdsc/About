@@ -11,6 +11,7 @@ For many programming languages, there are well-established sorting functions for
 ## Converting the tuple to a single number
 
 A simple approach is to simply flatten the tuple $(r, g, b)$ into a single number. We can convert the rgb value to be a 3-digit base-256 number (usually our numbers are in base-10). We can use this base-256 number to also represent the relative importances of $r$, $g$ and $b$. 
+
 - Since $b$ is the least important, we take it to be the 1st digit of the base-256 number
 - Since $g$ is the 2nd most important, we take it to be the 2nd digit of the base-256 number
 - Since $r$ is the most important, we take it to be the 3rd digit of the base-256 number
@@ -20,6 +21,7 @@ To perform the conversion, we can just simply do $rgb = 256*256*r + 256*g + b$.
 After converting to the base-256 number, we can just use the standard sort functions to sort our tuple.
 
 However, we need to remember to convert the base-256 number back to $(r, g, b)$ format for printing out the result. Thats not too difficult, we can do
+
 - $r = sheep \div (256 * 256))$
 - $g = (sheep \mod (256 * 256)) \div 256)$
 - $b = sheep \mod 256$
