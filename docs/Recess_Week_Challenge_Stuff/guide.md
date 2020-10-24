@@ -64,3 +64,9 @@ for (int i = 0; i < x; ++i)
     v.at(i) = std::array<int, 3>{ a1, a2, a3 }; // Assign element at i index of vector to array of inputs
 }
 ```
+
+To print to output
+
+```c++
+std::cout << a << b << c;
+```
