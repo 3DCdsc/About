@@ -2,9 +2,14 @@
 
 ## The story so far...
 
-If you have tried out the teaser challenge released on Friday, you would have helped our main character, Steve to set up his sheep farm! Thanks to all your help, Steve is now happily shearing wool from his sheep! Now, Steve wants to sell wool to other Minecrafters. He needs your help to set up a system that helps customers calculate the price of the wool they wish to buy!
+If you have tried out the teaser challenge released on Friday, you would have helped our main character, Steve to set up his sheep farm! 
 
 ![](../imgs/sheep_farm.png)
+
+
+Thanks to all your help, Steve is now happily shearing wool from his sheep! Now, Steve wants to sell wool to other Minecrafters. He needs your help to set up a system that helps customers calculate the price of the wool they wish to buy!
+
+![](../imgs/saas.png)
 
 ## Introduction
 
