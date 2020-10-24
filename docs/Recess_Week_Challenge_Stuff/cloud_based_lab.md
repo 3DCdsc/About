@@ -251,7 +251,8 @@ Then, click on `Create Application`
 
 You should now see a form to fill in your application details.
 
-Fill in the following
+Fill in the following:
+
 1. For `Application Name`, just fill in whatever you want (e.g. `Sheep Shop`)
 2. Leave `Application Tags` empty
 3. For `Platform`, choose `Python`, then `Python3.7 running on 64bit Amazon Linux 2` for the Platform branch, then `3.1.2` for the platform version (or which is given)
