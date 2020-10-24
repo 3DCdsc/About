@@ -19,7 +19,10 @@ You do not have to complete the challenges or labs on the day they are released.
 
 **1st Place**: Raspberry Pi Model 4B+ 4GB RAM
 
-**1st-10th Place**: $5 GrabFood Voucher
+Prize for **Top 5 Freshmore Students**: $5 GrabFood Voucher each    
+Prize for **Top 5 Non-ISTD Pillar-Year Students**: $5 GrabFood Voucher each     
+Prize for **Top 5 ISTD Students**: $5 GrabFood Voucher each 
+
 
 ## Registration and Links
 
