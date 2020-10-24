@@ -28,14 +28,14 @@ Prize for **Top 5 ISTD Students**: $5 GrabFood Voucher each
 
 Register for the challenge [here](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPT7laIF8QHhDuji50dJ_xY1UQzNHRzNSRTFBMzBISkw4VUdIWE81TjFSSC4u).
 
-Check out the leaderboard, or submit your cloud-based lab over [here (will be released closer to the start date)](#).
+Check out the leaderboard, or submit your cloud-based lab over [here](https://3dc-recess-week-web.azurewebsites.net/Leaderboard).
 
 All links to the 3DC challenges will be posted here. The hackerrank challenges are hosted over here at this [contest page (will be released closer to the start date)](#).
 
 | Challenge | Release Date | Link | Points |
 | :---: | :---: | :---: | :---: |
 | Teaser Challenge | 23/10/20 (Friday) | [Link](https://www.hackerrank.com/3dc-recess-week-minecraft-teaser) | N/A |
-| Cloud-based Lab  | 24/10/20 (Saturday) 20:00 | [To be released](#) | 200 |
+| Cloud-based Lab  | 24/10/20 (Saturday) 20:00 | [Link](./Recess_Week_Challenge_Stuff/cloud_based_lab.md) | 200 |
 | Hackerrank Challenge 1  | 26/10/20 (Monday) 09:00 | [To be released](#) | 100 |
 | Hackerrank Challenge 2  | 27/10/20 (Tuesday) 09:00 | [To be released](#) | 100 |
 | Hackerrank Challenge 3  | 28/10/20 (Wednesday) 09:00 | [To be released](#) | 100 |
@@ -44,5 +44,5 @@ All links to the 3DC challenges will be posted here. The hackerrank challenges a
 ## Scoring Guidelines
 
 1. Both the Hackerrank non-timed and timed challenges will be graded by Hackerrank's automated scoring system.
-2. The Cloud-based challenge will be graded automatically. Please use [this link (to be released)](#) to test your website.
+2. The Cloud-based challenge will be graded automatically. Please use [this link]((https://3dc-recess-week-web.azurewebsites.net/)) to test your website.
 3. Placement is graded based on total score. In the event of a tie, timing for the hackerrank timed challenge will be used as a tiebreaker.

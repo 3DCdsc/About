@@ -4,7 +4,7 @@
 
 If you have tried out the teaser challenge released on Friday, you would have helped our main character, Steve to set up his sheep farm! Thanks to all your help, Steve is now happily shearing wool from his sheep! Now, Steve wants to sell wool to other Minecrafters. He needs your help to set up a system that helps customers calculate the price of the wool they wish to buy!
 
-TODO: Add pic
+![](../imgs/sheep_farm.png)
 
 ## Introduction
 
@@ -220,12 +220,12 @@ First, Elastic Beanstalk requires our Python Flask file to be called `applicatio
 Second, Elastic Beanstalk requires a `requirements.txt` in the same folder as the `application.py`, so that it knows what dependencies it needs to install. Normally, we would use `pip freeze` to help us find out the requirements of our virtual environment. However, since we did not create virtual environment, this would just return all the dependencies installed on our computer, instead of just the ones required for the Flask Application. So, create a new file called `requirements.txt` and paste the contents inside:
 
 ```txt
-click==6.7
-Flask==1.0.2
-itsdangerous==0.24
-Jinja2==2.10
-MarkupSafe==1.0
-Werkzeug==0.14.1
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
 ```
 
 We will need to zip our application to upload to AWS later. There are other ways to upload our application, e.g. using S3 or Github, but we will just zip the application for now. (I will zip the contents `cloud_lab` folder to `cloud_lab.zip`)
@@ -277,5 +277,7 @@ To verify the webpage is indeed working, navigate to the link (as circled in the
 ### 5. You're Done!
 
 That wasn't so difficult was it? Deploying your first web application onto the cloud.
+
+Once you're ready, [submit your cloud based lab here](https://3dc-recess-week-web.azurewebsites.net/).
 
 We strongly encourage you to explore other options for creating a web-app (e.g. Express/Spring/ASP.NET/Django), as well as the other cloud providers (E.g. Microsoft Azure, Google Cloud Platform) and the different services they have to offer!
