@@ -2,7 +2,7 @@
 
 > This page shows the solutions for the teaser problem. If you that is not what you intended, turn back now!
 
-> Time complexity: O(n) for n = Number of Sheep
+> Time complexity: O(n*log(n)) for n = Number of Sheep
 
 This question is quite obviously a sorting problem. We just need to sort the sheep according to which is more red, then more blue, then more green.
 
