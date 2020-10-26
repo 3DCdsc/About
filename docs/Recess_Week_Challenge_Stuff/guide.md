@@ -25,7 +25,7 @@ x = int(input()) # The int() is used to convert input from a string to integer
 To read the subsequent 2 lines of input
 ```python
 my_list = []
-my_list [int(i) for i in input().split()] # A list of integers
+my_list = [int(i) for i in input().split()] # A list of integers
 ```
 
 For printing output
