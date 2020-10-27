@@ -30,16 +30,16 @@ Register for the challenge [here](https://forms.office.com/Pages/ResponsePage.as
 
 Check out the leaderboard, or submit your cloud-based lab over [here](https://3dc-recess-week-web.azurewebsites.net/Leaderboard).
 
-All links to the 3DC challenges will be posted here. The hackerrank challenges are hosted over here at this [contest page (will be released closer to the start date)](#).
+All links to the 3DC challenges will be posted here.
 
-| Challenge | Release Date | Link | Points |
+| Challenge | Difficulty | Release Date | Points |
 | :---: | :---: | :---: | :---: |
-| Teaser Challenge | 23/10/20 (Friday) | [Link](https://www.hackerrank.com/3dc-recess-week-minecraft-teaser) | N/A |
-| Cloud-based Lab  | 24/10/20 (Saturday) 20:00 | [Link](./Recess_Week_Challenge_Stuff/cloud_based_lab.md) | 200 |
-| Hackerrank Challenge 1  | 26/10/20 (Monday) 09:00 | [Link](https://www.hackerrank.com/3dcrecessweek) | 100 |
-| Hackerrank Challenge 2  | 27/10/20 (Tuesday) 09:00 | [Link](https://www.hackerrank.com/3dcrecessweek) | 100 |
-| Hackerrank Challenge 3  | 28/10/20 (Wednesday) 09:00 | [To be released](#) | 100 |
-| Hackerrank Timed Challenge | 30/10/20 (Friday) 14:30 | [To be released](#) | 200 |
+| [Teaser Challenge: Steve and Sheep](https://www.hackerrank.com/3dc-recess-week-minecraft-teaser) | Medium | 23/10/20 (Friday) | N/A |
+| [Cloud-based Lab: Sheep-as-a-Service](./Recess_Week_Challenge_Stuff/cloud_based_lab.md) | Medium | 24/10/20 (Saturday) 20:00 | 200 |
+| [Hackerrank Challenge 1: Steve's Wheat Farm](https://www.hackerrank.com/3dcrecessweek) | Challenging | 26/10/20 (Monday) 09:00 | 100 |
+| [Hackerrank Challenge 2: Steve vs Prof Oka!](https://www.hackerrank.com/3dcrecessweek)| Easy | 27/10/20 (Tuesday) 09:00 | 100 |
+| Hackerrank Challenge 3 | N/A | 28/10/20 (Wednesday) 09:00 | 100 |
+| Hackerrank Timed Challenge | N/A | 30/10/20 (Friday) 14:30 | 200 |
 
 ## Scoring Guidelines
 
