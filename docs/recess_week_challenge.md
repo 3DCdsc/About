@@ -13,7 +13,7 @@ The 3DC recess week challenge comprises three main parts:
 2. Daily Hackerrank own-time-own-target coding challenge (26/10/20 - 28/10/20)
 3. Time-based coding challenge on Hackerrank (30/10/20)
 
-You do not have to complete the challenges or labs on the day they are released.  Just submit them before the **deadline on 30/10/20 2359 (Friday).** However, those who complete the time-based coding challenge faster will rank higher, so try to start working on that challenge as soon as it is released!
+You do not have to complete the challenges or labs on the day they are released.  Just submit them before the **deadline on 31/10/20 1500 (Saturday).** However, those who complete the time-based coding challenge faster will rank higher, so try to start working on that challenge as soon as it is released!
 
 ## Prizes
 
