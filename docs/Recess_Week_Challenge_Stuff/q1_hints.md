@@ -26,3 +26,10 @@
   You will only need linear time corresponding to the number of blocks to solve this problem! Perhaps you could combine prefix sum arrays with dividing the problem into smaller problems? Multiple prefix sum arrays?
 
 </details>
+
+<details>
+  <summary>Hint 4</summary>
+
+  What effect does performing prefix sum of on an array TWICE do? Might it be useful in this question? Especially for the falloff?
+
+</details>
