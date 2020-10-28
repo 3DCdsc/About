@@ -11,6 +11,6 @@
 <details>
   <summary>Hint 2</summary>
 
-  Encountering a timeout on your code for more complex cases? Perhaps consider how efficient your current algorithm is. Does it constantly excessively waste time computing something that would be overwritten later? Is there a way to mimize this wastage in computational time?
+  Encountering a timeout on your code for more complex cases? Perhaps consider how efficient your current algorithm is. Does it constantly excessively waste time computing something that would be overwritten later? Is there a way to minimize this wastage in computational time?
 
 </details>
