@@ -38,7 +38,7 @@ All links to the 3DC challenges will be posted here.
 | [Cloud-based Lab: Sheep-as-a-Service](./Recess_Week_Challenge_Stuff/cloud_based_lab.md) | Medium | 24/10/20 (Saturday) 20:00 | 200 |
 | [Hackerrank Challenge 1: Steve's Wheat Farm](https://www.hackerrank.com/3dcrecessweek) | Challenging | 26/10/20 (Monday) 09:00 | 100 |
 | [Hackerrank Challenge 2: Steve vs Prof Oka!](https://www.hackerrank.com/3dcrecessweek)| Easy | 27/10/20 (Tuesday) 09:00 | 100 |
-| [Hackerrank Challenge 3](https://www.hackerrank.com/3dcrecessweek) | Medium | 28/10/20 (Wednesday) 09:00 | 100 |
+| [Hackerrank Challenge 3: Irritgating Steve](https://www.hackerrank.com/3dcrecessweek) | Medium | 28/10/20 (Wednesday) 09:00 | 100 |
 | Hackerrank Timed Challenge | N/A | 30/10/20 (Friday) 14:30 | 200 |
 
 ## Scoring Guidelines
