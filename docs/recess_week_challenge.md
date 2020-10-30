@@ -13,7 +13,7 @@ The 3DC recess week challenge comprises three main parts:
 2. Daily Hackerrank own-time-own-target coding challenge (26/10/20 - 28/10/20)
 3. Time-based coding challenge on Hackerrank (30/10/20)
 
-You do not have to complete the challenges or labs on the day they are released.  Just submit them before the **deadline on 30/10/20 2359 (Friday).** However, those who complete the time-based coding challenge faster will rank higher, so try to start working on that challenge as soon as it is released!
+You do not have to complete the challenges or labs on the day they are released.  Just submit them before the **deadline on 31/10/20 1500 (Saturday).** However, those who complete the time-based coding challenge faster will rank higher, so try to start working on that challenge as soon as it is released!
 
 ## Prizes
 
@@ -39,7 +39,7 @@ All links to the 3DC challenges will be posted here.
 | [Hackerrank Challenge 1: Steve's Wheat Farm](https://www.hackerrank.com/3dcrecessweek) | Challenging | 26/10/20 (Monday) 09:00 | 100 |
 | [Hackerrank Challenge 2: Steve vs Prof Oka!](https://www.hackerrank.com/3dcrecessweek)| Easy | 27/10/20 (Tuesday) 09:00 | 100 |
 | [Hackerrank Challenge 3: Irritgating Steve](https://www.hackerrank.com/3dcrecessweek) | Medium | 28/10/20 (Wednesday) 09:00 | 100 |
-| Hackerrank Timed Challenge | N/A | 30/10/20 (Friday) 14:30 | 200 |
+| [Hackerrank Timed Challenge: Enderdragon Fight!](https://www.hackerrank.com/contests/3dcrecessweekfinal/) | Hard | 30/10/20 (Friday) 14:30 | 200 |
 
 ## Scoring Guidelines
 
