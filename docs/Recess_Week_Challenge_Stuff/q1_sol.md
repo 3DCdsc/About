@@ -130,7 +130,7 @@ base = 0
 - Perform prefix sum yet another time on the array. The first element will represent the starting brightness, and apply the trend for the next block at every next block, together with the base value from the previous block.
 
 <pre>
-0 0 1 2 4 4 4 2 2 1 0 0
+0 0 1 2 4 4 4 2 1 0 0
 </pre>
 
 ## Efficiency of improved algorithm
