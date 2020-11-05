@@ -83,7 +83,6 @@ for row in range(rows):
       print(grid[row][col], end=" ")
   print()
 
-
 ```
 
 </details>
@@ -96,39 +95,49 @@ Compare it to the more naive, less greedy approach below.
 ```python
 
 def flood(grid, r, c, depth, x, y):
-  # Recursive algorithm (function that calls itself) that goes deep first
+  # Recursive algorithm (function that calls itself). Function will continue to invoke itself until depth == 1.
   if depth == 1:
-    return
+    return  
   for (i, j) in [(r-1, c), (r+1, c), (r, c-1), (r, c+1)]:
     if i < x and i >= 0 and j < y and j >= 0 \
       and grid[i][j] >= 0 and grid[i][j] < depth -1:
-      flood(grid, i, j, depth - 1, x, y)
-
+        # The surrounding / adjacent cells cannot have a depth that is more than 1 below the current cell. 
+        # Hence, if it is, change it to just 1 below current cell
+        grid[i][j] = depth - 1
+        flood(grid, i, j, depth - 1, x, y)
+        
 rows, cols, depth = [int(i) for i in input().split()]
-grid = [[0] * cols] * rows
+grid = [[0] * cols for _ in range(rows)]
 water_r = 0
 water_c = 0
+
+# Convert '.' and 'X' to -1 and 0 first. If it is the source of water, just convert to int.
 for row in range(rows):
-  s = input().split()
-  for col in range(cols):
-    if s[col] == "X":
-      grid[row][col] = -1
-    elif s[col] == ".":
-      grid[row][col] = 0
-    else:
-      grid[row][col] = int(s[col])
-      water_r = row
-      water_c = col
+    s = input().split()
+    for col in range(cols):
+        
+        if s[col] == "X":
+            grid[row][col] = -1
+        elif s[col] == ".":
+            grid[row][col] = 0
+        else:
+            grid[row][col] = int(s[col])
+            water_r = row
+            water_c = col
 
 flood(grid, water_r, water_c, depth, rows, cols)
-for row in range(rows):
-  for col in range(cols):
-    if grid[row][col] == 0:
-      print('.', end=" ")
-    else:
-      print(grid[row][col], end=" ")
-  print()
 
+# Result obtained, just convert it into the format requested by qn
+for row in range(rows):
+    for col in range(cols):
+        if grid[row][col] == 0:
+            print('.', end=" ")
+        elif grid[row][col] == -1:
+            print('X', end=" ")
+        else:
+            print(grid[row][col], end=" ")
+    print()
+    
 ```
 
 </details>
