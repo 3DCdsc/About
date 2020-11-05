@@ -135,7 +135,7 @@ base = 0
 
 ## Efficiency of improved algorithm
 
-Notice that we only iterate through the array twice, and during the first set of iteration, we perform a maximum of three array-lookup operations (of $O(1)$ time complexity) per block, which gives us a total linear time complexity of $O(n)$!
+Notice that we only iterate through the array thrice, and during the first set of iteration, we perform a maximum of three array-lookup operations (of $O(1)$ time complexity) per block, which gives us a total linear time complexity of $O(n)$!
 
 The full solution (Python3) can be found below.
 
