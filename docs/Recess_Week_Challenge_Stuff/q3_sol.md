@@ -83,7 +83,6 @@ for row in range(rows):
       print(grid[row][col], end=" ")
   print()
 
-
 ```
 
 </details>
@@ -107,9 +106,6 @@ def flood(grid, r, c, depth, x, y):
         grid[i][j] = depth - 1
         flood(grid, i, j, depth - 1, x, y)
         
-    
-    
-
 rows, cols, depth = [int(i) for i in input().split()]
 grid = [[0] * cols for _ in range(rows)]
 water_r = 0
@@ -141,7 +137,7 @@ for row in range(rows):
         else:
             print(grid[row][col], end=" ")
     print()
-
+    
 ```
 
 </details>
