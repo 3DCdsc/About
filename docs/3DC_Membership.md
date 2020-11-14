@@ -82,4 +82,4 @@ For sharing sessions, you can share about your internship experience, UROP exper
 
 ## Pathway 3: Join a Hackathon with 3DC
 
-Team up with anyone in the 3DC Community, represent 3DC and participate in a hackathon. 
+[Team up](https://docs.google.com/spreadsheets/d/1dKP5fLJwsqWcirQ2JPFKWNCApwvdVQOoAWPPezdGT8Q/edit?usp=sharing) with anyone in the 3DC Community, represent 3DC and participate in a hackathon. 
