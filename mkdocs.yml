@@ -1,7 +1,31 @@
 site_name: Everything About 3DC
 docs_dir: docs/
-repo_name: '3DCdsc/About'
-repo_url: 'https://github.com/3DCdsc/About'
+# repo_name: '3DCdsc/About'
+# repo_url: 'https://github.com/3DCdsc/About'
+nav:
+    - Home: 
+        - Home: 'index.md'
+    - Projects: 
+        - Projects: 'project.md'
+    - Workshops: 
+        - Workshops in 2020: 'Workshop_2020.md'
+        - Workshop Organiser Guide: 'workshop_guide.md'
+    - Recess Week Challenge:
+        - Challenge Introduction: 'recess_week_challenge.md'
+        - Cloud-based Lab: 'Recess_Week_Challenge_Stuff/cloud_based_lab.md'
+        - HackerRank Guide: 'Recess_Week_Challenge_Stuff/guide.md'
+        - Teaser Hints: 'Recess_Week_Challenge_Stuff/teaser_hints.md'
+        - Teaser Solution: 'Recess_Week_Challenge_Stuff/teaser_sols.md'
+        - Q1 Hints: 'Recess_Week_Challenge_Stuff/q1_hints.md'
+        - Q1 Solution: 'Recess_Week_Challenge_Stuff/q1_sol.md'
+        - Q2 Solution: 'Recess_Week_Challenge_Stuff/q2_sol.md'
+        - Q3 Hints: 'Recess_Week_Challenge_Stuff/q3_hints.md'
+        - Q3 Solution: 'Recess_Week_Challenge_Stuff/q3_sol.md'
+        - Q4 Solution: 'Recess_Week_Challenge_Stuff/q4_sol.md'
+        - Q5 Hints: 'Recess_Week_Challenge_Stuff/q5_hints.md'
+    - Join Us:
+        - 3DC Membership: '3DC_Membership.md'
+        - Join 3DC Core Team: 'Join_3DC_Core.md'
 markdown_extensions:
     - toc:
         permalink: "#"
@@ -11,6 +35,11 @@ markdown_extensions:
         generic: true
 theme:
     name: material
+    favicon: imgs/code.svg
+    icon: 
+        logo: fontawesome/solid/code
+    features:
+      - navigation.tabs
     palette:
         scheme: slate
         primary: teal
