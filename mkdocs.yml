@@ -8,8 +8,9 @@ nav:
     - Projects: 
         - Projects: 'project.md'
     - Workshops: 
-        - Workshops in 2020: 'Workshop_2020.md'
-        - Workshop Organiser Guide: 'workshop_guide.md'
+        - Upcoming Workshops: 'Workshops/upcoming_workshops.md'
+        - Past Workshops: 'Workshops/past_workshops.md'
+        - Workshop Organiser Guide: 'Workshops/workshop_guide.md'
     - Recess Week Challenge:
         - Challenge Introduction: 'recess_week_challenge.md'
         - Cloud-based Lab: 'Recess_Week_Challenge_Stuff/cloud_based_lab.md'
