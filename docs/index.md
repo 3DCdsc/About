@@ -18,6 +18,8 @@ Developer Student Clubs are university based community groups for students inter
 
 In short, DSC is a worldwide community supported by Google. Our 3DC DSC at SUTD is proud to be a part of this community. We are seeking to empower students in their journey of undergraduate/graduate education. By joining our DSC, students will be able to build up their professional and personal skills, get access to Google Developer resources, and work together to build solutions for local problems in a peer-to-peer learning environment.
 
+> Disclaimer: DSC@SUTD is an independent group; the activities and opinions expressed by the group should in no way be linked to Google, the corporation.
+
 ## Collaboration with OpenNodes
 
 OpenNodes is an initiative started by Tribe and IMDA Singapore, and is supported by more than 30 leading global corporates and government agencies with 3DC running SUTD’s branch of Opennodes. The aim is to foster greater collaboration between various stakeholders within the tech ecosystem.
