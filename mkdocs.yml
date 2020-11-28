@@ -53,8 +53,8 @@ extra:
 # Navigation Menu
 nav:
     - Home: 'index.md'
-    - Projects: 
-        - Projects: 'project.md'
+#     - Projects: 
+#         - Projects: 'project.md'
     - Workshops: 
         - Upcoming Workshops: 'Workshops/upcoming_workshops.md'
         - Past Workshops: 'Workshops/past_workshops.md'
