@@ -1,10 +1,58 @@
-site_name: Everything About 3DC
+site_name: Digital Design and Development Club (3DC)
 docs_dir: docs/
+
 # repo_name: '3DCdsc/About'
 # repo_url: 'https://github.com/3DCdsc/About'
+
+# Copyright
+copyright: Digital Design and Development Club (3DC) &copy; 2020. All rights reserved.
+
+# Theme Configuration
+theme:
+    name: material
+    language: en
+    favicon: imgs/code.svg
+    icon: 
+        logo: fontawesome/solid/code
+    features:
+        - navigation.tabs
+    palette:
+        scheme: slate
+        primary: teal
+        accent: indigo
+
+# Extensions
+markdown_extensions:
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - toc:
+        permalink: "#"
+    - pymdownx.arithmatex:
+        generic: true
+
+# Extra Style
+extra_javascript:
+    - javascripts/config.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Customization
+extra:
+    social:
+        - icon: fontawesome/brands/github
+            link: https://github.com/3DCdsc
+        - icon: fontawesome/brands/twitch
+            link: https://www.twitch.tv/3dcdsc
+        - icon: fontawesome/brands/youtube
+            link: https://www.youtube.com/channel/UCF56lQD1HWv-0uOQSXrTmLw
+        - icon: fontawesome/brands/instagram
+            link: https://www.instagram.com/sutd3dc/
+        - icon: fontawesome/brands/telegram
+            link: https://t.me/joinchat/C_Nni1C77ZlOVTdjU4yf4Q
+
+# Navigation Menu
 nav:
-    - Home: 
-        - Home: 'index.md'
+    - Home: 'index.md'
     - Projects: 
         - Projects: 'project.md'
     - Workshops: 
@@ -27,25 +75,3 @@ nav:
     - Join Us:
         - 3DC Membership: '3DC_Membership.md'
         - Join 3DC Core Team: 'Join_3DC_Core.md'
-markdown_extensions:
-    - toc:
-        permalink: "#"
-    - pymdownx.highlight
-    - pymdownx.superfences
-    - pymdownx.arithmatex:
-        generic: true
-theme:
-    name: material
-    favicon: imgs/code.svg
-    icon: 
-        logo: fontawesome/solid/code
-    features:
-      - navigation.tabs
-    palette:
-        scheme: slate
-        primary: teal
-        accent: indigo
-extra_javascript:
-  - javascripts/config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
