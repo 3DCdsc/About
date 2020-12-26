@@ -14,13 +14,13 @@ I'm a sophomore in ISTD. I initially picked up programming years ago as a hobby.
 <br/>
 
 <img src="../imgs/team/mark.jpg" alt="mark" class="profile-photo"/>
-<b>Huang He</b>
+<b>Mark Huang He</b>
 <br/>
 Vice-President, Class of 2022<br/>
 <a href="https://github.com/MarkHershey"><img src="../imgs/logos/github.svg" class="logo"/></a>
 <a href="https://www.linkedin.com/in/huanghe97"><img src="../imgs/logos/linkedin.svg" class="logo"/></a>
 <br/>
-Hi there, I'm Mark Huang, a computer science undergraduate specialising artificial intelligence at SUTD. I am passionate about ML/CV, automation, open source, and photography.
+I'm a computer science undergraduate specialising artificial intelligence at SUTD. I have multidisciplinary experience as a software engineer and product manager in Agile software development teams. I am passionate about research in Computer Vision with Deep Learning as well as open-source stuff. 
 
 <br/>
 
