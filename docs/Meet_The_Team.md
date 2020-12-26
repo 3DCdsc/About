@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="/styles/main.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../styles/main.css" />
 
 Meet the 3DC Exco team!
 
