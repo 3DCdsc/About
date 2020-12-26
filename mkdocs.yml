@@ -9,69 +9,70 @@ copyright: Digital Design and Development Club (3DC) &copy; 2020. All rights res
 
 # Theme Configuration
 theme:
-    name: material
-    language: en
-    favicon: imgs/code.svg
-    icon: 
-        logo: fontawesome/solid/code
-    features:
-        - navigation.tabs
-    palette:
-        scheme: slate
-        primary: teal
-        accent: indigo
+  name: material
+  language: en
+  favicon: imgs/code.svg
+  icon:
+    logo: fontawesome/solid/code
+  features:
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: teal
+    accent: indigo
 
 # Extensions
 markdown_extensions:
-    - pymdownx.highlight
-    - pymdownx.superfences
-    - toc:
-        permalink: "#"
-    - pymdownx.arithmatex:
-        generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+  - pymdownx.arithmatex:
+      generic: true
 
 # Extra Style
 extra_javascript:
-    - javascripts/config.js
-    - https://polyfill.io/v3/polyfill.min.js?features=es6
-    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Customization
 extra:
-    social:
-        - icon: fontawesome/brands/github
-          link: https://github.com/3DCdsc
-        - icon: fontawesome/brands/twitch
-          link: https://www.twitch.tv/3dcdsc
-        - icon: fontawesome/brands/youtube
-          link: https://www.youtube.com/channel/UCF56lQD1HWv-0uOQSXrTmLw
-        - icon: fontawesome/brands/instagram
-          link: https://www.instagram.com/sutd3dc/
-        - icon: fontawesome/brands/telegram
-          link: https://t.me/joinchat/C_Nni1C77ZlOVTdjU4yf4Q
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/3DCdsc
+    - icon: fontawesome/brands/twitch
+      link: https://www.twitch.tv/3dcdsc
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCF56lQD1HWv-0uOQSXrTmLw
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/sutd3dc/
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/joinchat/C_Nni1C77ZlOVTdjU4yf4Q
 
 # Navigation Menu
 nav:
-    - Home: 'index.md'
-#     - Projects: 
-#         - Projects: 'project.md'
-    - Workshops: 
-        - Upcoming Workshops: 'Workshops/upcoming_workshops.md'
-        - Past Workshops: 'Workshops/past_workshops.md'
-        - Workshop Organiser Guide: 'Workshops/workshop_guide.md'
-    - Recess Week Challenge:
-        - Challenge Introduction: 'recess_week_challenge.md'
-        - Cloud-based Lab: 'Recess_Week_Challenge_Stuff/cloud_based_lab.md'
-        - HackerRank Guide: 'Recess_Week_Challenge_Stuff/guide.md'
-        - Teaser Hints: 'Recess_Week_Challenge_Stuff/teaser_hints.md'
-        - Teaser Solution: 'Recess_Week_Challenge_Stuff/teaser_sols.md'
-        - Q1 Hints: 'Recess_Week_Challenge_Stuff/q1_hints.md'
-        - Q1 Solution: 'Recess_Week_Challenge_Stuff/q1_sol.md'
-        - Q2 Solution: 'Recess_Week_Challenge_Stuff/q2_sol.md'
-        - Q3 Hints: 'Recess_Week_Challenge_Stuff/q3_hints.md'
-        - Q3 Solution: 'Recess_Week_Challenge_Stuff/q3_sol.md'
-        - Q4 Solution: 'Recess_Week_Challenge_Stuff/q4_sol.md'
-        - Q5 Hints: 'Recess_Week_Challenge_Stuff/q5_hints.md'
-    - Join Us:
-        - 3DC Membership: '3DC_Membership.md'
-        - Join 3DC Core Team: 'Join_3DC_Core.md'
+  - Home: "index.md"
+  #     - Projects:
+  #         - Projects: 'project.md'
+  - Workshops:
+      - Upcoming Workshops: "Workshops/upcoming_workshops.md"
+      - Past Workshops: "Workshops/past_workshops.md"
+      - Workshop Organiser Guide: "Workshops/workshop_guide.md"
+  - Recess Week Challenge:
+      - Challenge Introduction: "recess_week_challenge.md"
+      - Cloud-based Lab: "Recess_Week_Challenge_Stuff/cloud_based_lab.md"
+      - HackerRank Guide: "Recess_Week_Challenge_Stuff/guide.md"
+      - Teaser Hints: "Recess_Week_Challenge_Stuff/teaser_hints.md"
+      - Teaser Solution: "Recess_Week_Challenge_Stuff/teaser_sols.md"
+      - Q1 Hints: "Recess_Week_Challenge_Stuff/q1_hints.md"
+      - Q1 Solution: "Recess_Week_Challenge_Stuff/q1_sol.md"
+      - Q2 Solution: "Recess_Week_Challenge_Stuff/q2_sol.md"
+      - Q3 Hints: "Recess_Week_Challenge_Stuff/q3_hints.md"
+      - Q3 Solution: "Recess_Week_Challenge_Stuff/q3_sol.md"
+      - Q4 Solution: "Recess_Week_Challenge_Stuff/q4_sol.md"
+      - Q5 Hints: "Recess_Week_Challenge_Stuff/q5_hints.md"
+  - Join Us:
+      - Our Team: "Meet_The_Team.md"
+      - 3DC Membership: "3DC_Membership.md"
+      - Join 3DC Core Team: "Join_3DC_Core.md"
