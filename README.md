@@ -1,7 +1,5 @@
 # About 3DC
 
-![ci](https://github.com/3DCdsc/About/workflows/ci/badge.svg?branch=master)
-
 ### Add / Edit Pages
 
 All pages are written in MarkDown (`.md`) located under the directory `docs/` on Master branch.
